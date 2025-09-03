@@ -1,10 +1,10 @@
 # scratch-games
-Two easy Scratch games I made in 2024
+Two easy Scratch games I made in 2024 for passing CS50x Week 0.
 
 ## AppleBowing
-The gole is to hit 30 red apples.
-Game has 3 levels and increasing difficulity.
-Sometimes you can use SuperPower :)
+- The gole is to hit 30 red apples.
+- Game has 3 levels and increasing difficulity.
+- Sometimes you can use SuperPower :)
 
 Try it: **🕹️ [PLAY GAME](https://scratch.mit.edu/projects/978293695)**
 <br/>
