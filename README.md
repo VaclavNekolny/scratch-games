@@ -19,4 +19,4 @@ It's a game of tag where two computer players are following you and you've to ru
 **🕹️ [PLAY GAME](https://scratch.mit.edu/projects/994538191)**
 <br/>
 <br/>
-[<img src="media/colored_squares" width="350"/>](https://scratch.mit.edu/projects/994538191)
+[<img src="media/colored_squares.png" width="350"/>](https://scratch.mit.edu/projects/994538191)
