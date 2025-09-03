@@ -2,7 +2,11 @@
 Two easy Scratch games I made in 2024
 
 ## AppleBowing
-**🕹️ [PLAY GAME](https://scratch.mit.edu/projects/978293695)**
+The gole is to hit 30 red apples.
+Game has 3 levels and increasing difficulity.
+Sometimes you can use SuperPower :)
+
+Try it: **🕹️ [PLAY GAME](https://scratch.mit.edu/projects/978293695)**
 <br/>
 <br/>
 [<img src="media/apple_bowing.png" width="350"/>](https://scratch.mit.edu/projects/978293695)
@@ -10,6 +14,9 @@ Two easy Scratch games I made in 2024
 ---
 
 ## ColorSquares
+It's a game of tag where two computer players are following you and you've to run.
+
 **🕹️ [PLAY GAME](https://scratch.mit.edu/projects/994538191)**
 <br/>
-<img src="media/colored_squares" width="350"/>
+<br/>
+[<img src="media/colored_squares" width="350"/>](https://scratch.mit.edu/projects/994538191)
